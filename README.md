@@ -101,6 +101,10 @@ This project provides a detailed analysis of company revenue and related perform
 | Canada         | _[**$82K**]_ | _[**$68K**]_ | _[**$66K**]_ |
 
 
+![My Project Screenshot](electronics_sales.png)
+![My Project Screenshot](electronics_sales2.png)
+
+
 ---
 ## 📌 Business Recommendations (2022–2024)
 
